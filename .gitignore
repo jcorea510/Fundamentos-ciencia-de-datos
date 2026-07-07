@@ -1,3 +1,8 @@
-mapas_conceptuales/.obsidian/
+data_science_notes/.obsidian/**
+!mapas_conceptuales
+mapas_conceptuales/**
 !mapas_conceptuales/*.png
-!clase0*/\*.pdf
+
+!clase*/
+clase*/**
+!clase*/**/*.pdf
