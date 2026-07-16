@@ -1,0 +1,9 @@
+data_science_notes/.obsidian/**
+!mapas_conceptuales
+mapas_conceptuales/**
+!mapas_conceptuales/*.png
+
+!clase*/
+clase*/**
+!clase*/**/*.pdf
+!clase*/**/*.sql
