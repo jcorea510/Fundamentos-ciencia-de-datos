@@ -7,3 +7,4 @@ mapas_conceptuales/**
 clase*/**
 !clase*/**/*.pdf
 !clase*/**/*.sql
+!clase*/**/*.png
